@@ -1631,8 +1631,9 @@ section.lazy-placeholder:after {
 }
 .cid-rCYav3ETIX {
   padding-top: 15px;
-  padding-bottom: 15px;
-  background: #efefef;
+  padding-bottom: 30px;
+  background: #ffd700;
+  background: linear-gradient(90deg, #ffd700, #000000);
 }
 .cid-rCYav3ETIX .container-fluid {
   padding: 0 3rem;
